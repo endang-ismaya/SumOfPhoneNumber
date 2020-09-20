@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SumOfPhoneNumber.iml" filepath="$PROJECT_DIR$/SumOfPhoneNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SumOfPhoneNumber.iml" filepath="$PROJECT_DIR$/.idea/SumOfPhoneNumber.iml" />
     </modules>
   </component>
 </project>
